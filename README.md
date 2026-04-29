@@ -148,30 +148,6 @@ notebook/sentiment_analysis.ipynb
 
 ---
 
-## 📎 Project Structure
-
-```
-Sentiment-Analysis-Project/
-│
-├── data/
-│   └── Reviews.csv
-│
-├── notebook/
-│   └── sentiment_analysis.ipynb
-│
-├── src/
-│   └── model.py
-│
-├── outputs/
-│   ├── graphs.png
-│   └── confusion_matrix.png
-│
-├── requirements.txt
-├── README.md
-```
-
----
-
 ## 🤝 Contribution
 
 This project is developed as part of an academic NLP assignment. Contributions and suggestions are welcome.
