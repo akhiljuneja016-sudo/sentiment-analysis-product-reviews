@@ -183,8 +183,3 @@ This project is developed as part of an academic NLP assignment. Contributions a
 This project is for educational purposes only.
 
 ---
-
-## 👨‍💻 Author
-
-Your Name
-GitHub: https://github.com/your-username
